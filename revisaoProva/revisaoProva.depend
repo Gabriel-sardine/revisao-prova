@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724964690 source:c:\users\gabriel\documents\estudos\1 periodo\estrutura de dados\revisaoprova\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+
